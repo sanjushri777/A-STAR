@@ -219,7 +219,7 @@ aStarAlgo(start, goal)
 
 ![image](https://github.com/user-attachments/assets/3f94a3d8-d14e-4598-83db-5a5df02ecbef)
 
-<h3>Graph-2 OUTPUT</h3>:
+<h3>Graph-2 OUTPUT:</h3>
 
 ![image](https://github.com/user-attachments/assets/155e88e7-e30f-47fb-ba91-ab63fd964421)
 
